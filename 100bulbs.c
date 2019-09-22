@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 
 int main(){
 	int i=1,k,j=0,n,a[101];
